@@ -2,9 +2,26 @@ body
 {
     color: teal;
     background-color: silver;
-    font-family: Tahoma, sans-serif;
+    font-family: 'Paytone One', sans-serif;
+    font-family: 'Merienda One', cursive;
+    font-family: 'Roboto', sans-serif;
     margin-left: 100px;
     margin-right: 100px;
     padding-left: 50px;
     padding-right: 50px;
+}
+
+header
+{
+
+}
+
+main
+{
+    
+}
+
+footer
+{
+    
 }
