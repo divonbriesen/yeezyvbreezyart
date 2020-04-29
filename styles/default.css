@@ -7,7 +7,7 @@ body
     margin-right: 100px;
     padding-left: 50px;
     padding-right: 50px;
-    font-size: 200%;
+    font-size: 150%;
 }
 
 header
@@ -20,7 +20,7 @@ header
 
 main
 {
-    
+    color: red;
 }
 
 footer
@@ -28,7 +28,7 @@ footer
     text-align: center;
     background-color: #454ade;
     font-family: 'Roboto', sans-serif;
-    padding: 33px;
+    padding: 25px;
 }
 
 h1, h2, h3
@@ -41,10 +41,26 @@ h6
     text-align: center;
     font-size: 800%;
     color: orange;
-    border 10px double dashed red;
+    border: 10px double dashed red;
 }
 
 a
 {
-    color: orange;
+    color: #db162f;
 }
+
+a:hover
+{
+    color: orange;
+    text-decoration: underline;
+}
+
+
+/* https://coolors.co/454ade-29335c-605f5e-db162f-247ba0
+
+    454ade Iris - purple bluish
+    29335c Space Cadet - dark blue
+    605f5e Granite Grey - grey
+    db162f medium candy apple red - reddish
+    247ba0 CG Blue - off blue
+*/
