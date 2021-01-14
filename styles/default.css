@@ -17,7 +17,6 @@ header
 {
     text-align: center;
     font-family: 'Merienda One', cursive;
-    background-color: #454ade;
     padding: 33px;
 }
 
@@ -29,7 +28,6 @@ main
 footer
 {
     text-align: center;
-    background-color: #454ade;
     font-family: 'Roboto', sans-serif;
     padding: 25px;
 }
