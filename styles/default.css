@@ -1,4 +1,5 @@
-// https://coolors.co/542344-c78283-50808e-d7bea8-fdf7fa
+
+
 body
 {
     color: #d7bea8;
@@ -9,6 +10,7 @@ body
     padding-left: 50px;
     padding-right: 50px;
     font-size: 150%;
+  /* https://coolors.co/542344-c78283-50808e-d7bea8-fdf7fa */
 }
 
 header
