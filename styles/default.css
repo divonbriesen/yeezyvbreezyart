@@ -5,6 +5,8 @@ body
     color: #d7bea8;
     background-color: #542344;
     font-family: Tahoma, sans-serif;
+    margin-top: 10px;
+    margin-bottom: 30px;
     margin-left: 100px;
     margin-right: 100px;
     padding-left: 50px;
@@ -17,7 +19,7 @@ header
 {
     text-align: center;
     font-family: 'Merienda One', cursive;
-    padding: 33px;
+    padding-bottom: 0px;
 }
 
 main
